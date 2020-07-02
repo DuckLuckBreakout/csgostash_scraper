@@ -1,0 +1,1 @@
+# csgostash_scraper
