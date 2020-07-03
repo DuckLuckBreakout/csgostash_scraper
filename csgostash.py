@@ -98,7 +98,7 @@ class CsgoStashScraper:
 
                 all_skins_data.append(data)
                 #pprint(data)
+            print(all_skins_data)
 
         return all_skins_data
 
-CsgoStashScraper()
