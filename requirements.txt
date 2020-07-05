@@ -1,0 +1,6 @@
+wheel
+setuptools
+requests
+lxml
+beautifulsoup4
+pytelegrambotapi
